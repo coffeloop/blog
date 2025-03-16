@@ -1,0 +1,4 @@
+baseURL = 'https://pedroblog.coolify01.homelab.local/'
+languageCode = 'es-es'
+title = 'Pedro Blog'
+theme = 'ananke'
