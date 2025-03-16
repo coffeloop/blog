@@ -2,7 +2,7 @@
 aptPkgs = ["hugo"]
 
 [phases.build]
-cmds = ["hugo --minify --config hugo.toml"]
+cmds = ["hugo --minify"]
 
 [phases.deploy]
 
