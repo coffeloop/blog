@@ -15,5 +15,12 @@
       <guid>https://pedroblog.coolify01.homelab.local/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Understanding GPT Transformers and Their Current Use Cases</title>
+      <link>https://pedroblog.coolify01.homelab.local/posts/my-second-post/</link>
+      <pubDate>Thu, 05 Oct 2023 12:00:00 +0000</pubDate>
+      <guid>https://pedroblog.coolify01.homelab.local/posts/my-second-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;GPT (Generative Pre-trained Transformer) is a type of artificial intelligence model developed by OpenAI. It has revolutionized the field of natural language processing (NLP) with its ability to generate human-like text based on the input it receives. In this post, we will explore what GPT transformers are and some of their current use cases.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-gpt-transformer&#34;&gt;What is a GPT Transformer?&lt;/h2&gt;&#xA;&lt;p&gt;GPT transformers are a type of neural network architecture that uses a mechanism called self-attention to process and generate text. They are pre-trained on vast amounts of text data and can be fine-tuned for specific tasks. The most well-known version is GPT-3, which has 175 billion parameters, making it one of the largest and most powerful language models to date.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
