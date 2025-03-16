@@ -1,7 +1,7 @@
 #####################################################################
 #                            Build Stage                            #
 #####################################################################
-FROM hugomods/hugo:exts-0.145.0 as builder
+FROM hugomods/hugo:exts-0.145.0 AS builder
 # Base URL
 ARG HUGO_BASEURL='https://pedroblog.coolify01.homelab.local/'
 ENV HUGO_BASEURL=${HUGO_BASEURL}
