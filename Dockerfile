@@ -16,4 +16,4 @@ FROM hugomods/hugo:nginx
 # Copy the generated files to keep the image as small as possible.
 COPY --from=builder /src/public /site
 # Expose the port where the site will be served
-EXPOSE 80 443
+EXPOSE 80
